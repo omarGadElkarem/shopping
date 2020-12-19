@@ -1,0 +1,91 @@
+{
+    "products":[
+        {
+     
+                
+                    "id":"dress1",
+                    "title":"This is a new model for this color",
+                    "image":"/images/dress1.jpg",
+                    "price":"40$",
+                    "avilablesize":["Xs","Xl"],
+                    "description" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here',"
+
+                },
+                {
+                    "id":"dress2",
+                    "title":"The simple derss for girls",
+                    "image":"/images/dress2.jpg",
+                    "price":"60$",
+                    "avilablesize":["Xs","Xl"],
+                    "description" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here',"
+
+                },
+                {
+                    "id":"dress3",
+                    "title":"this is a park dress ",
+                    "image":"/images/dress3.jpg",
+                    "price":"50$",
+                    "avilablesize":["Sm","m"],
+                    "description" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here',"
+
+                },
+                {
+                    "id":"dress4",
+                    "title":"This is a wedding dress",
+                    "image":"/images/dress4.jpg",
+                    "price":"20$",
+                    "avilablesize":["Sm","m"],
+                    "description" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here',"
+
+                },
+                {
+                    "id":"dress5",
+                    "title":"This is a fun dress ",
+                    "image":"/images/dress5.jpg",
+                    "price":"30$",
+                    "avilablesize":["L","XXl"],
+                    "description" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here',"
+
+                },
+                {
+                    "id":"dress3",
+                    "title":"This is a Childreen dress ",
+                    "image":"/images/dress3.jpg",
+                    "price":"40$",
+                    "avilablesize":["L","XXl"],
+                    "description" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here',"
+
+                },
+                {
+                    "id":"dress3",
+                    "title":"This is a Childreen dress",
+                    "image":"/images/dress3.jpg",
+                    "price":"40$",
+                    "avilablesize":["L","m"],
+                    "description" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here',"
+
+                },
+                {
+                    "id":"dress6",
+                    "title":"This is a Childreen dress",
+                    "image":"/images/dress6.jpg",
+                    "price":"40$",
+                    "avilablesize":["Sm","Xs"],
+                    "description" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here',"
+
+                },
+                {
+                    "id":"dress6",
+                    "title":"This is a Childreen dress",
+                    "image":"/images/dress6.jpg",
+                    "price":"40$",
+                    "avilablesize":["m","Xs"],
+                    "description" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here',"
+
+                }
+
+
+
+
+            ]
+        }
